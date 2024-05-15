@@ -5,7 +5,7 @@ python script to split audio files by silence.
 ## Installing
 
 ```bash
-$ git clone
+$ git clone https://github.com/ontheroadjp/audio-divider
 ```
 
 
@@ -15,7 +15,7 @@ $ git clone
 - Analyze the silent parts.
 
 - The following command will output silence information in a text file in the dist directory
-  
+
   （``input_audio.mp3`` is the original audio file）
 
 - Argument can be a directory containing audio files instead of audio files
